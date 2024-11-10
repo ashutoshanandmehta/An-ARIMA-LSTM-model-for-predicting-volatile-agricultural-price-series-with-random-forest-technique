@@ -1,4 +1,4 @@
-# Crop Price Prediction Models
+# An ARIMA-LSTM model for predicting volatile agricultural price series with random forest technique
 
 This repository contains predictive models for crop prices, focusing on **Arhar**, **Gram**, and **Moong**. 
 The models use a combination of time-series analysis and machine learning techniques, including ARIMA, SARIMA, 
@@ -52,3 +52,12 @@ and ARIMA-LSTM hybrid models, to forecast future prices based on historical data
 Install dependencies using:
 ```bash
 pip install pandas numpy matplotlib statsmodels arch pmdarima tensorflow
+
+
+
+
+with open(readme_path, "w") as file: file.write(final_readme_content)
+
+readme_path
+
+
