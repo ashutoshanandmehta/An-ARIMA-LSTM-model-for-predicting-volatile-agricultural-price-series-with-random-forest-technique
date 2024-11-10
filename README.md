@@ -56,8 +56,4 @@ pip install pandas numpy matplotlib statsmodels arch pmdarima tensorflow
 
 
 
-with open(readme_path, "w") as file: file.write(final_readme_content)
-
-readme_path
-
 
